@@ -1,1 +1,1 @@
-# Heart_disease_Predect
+# Heart_disease_Prediction
