@@ -33,10 +33,6 @@ Distance==0.1.3
 distlib==0.3.3
 
 docopt==0.6.2
-
-easyocr==1.4.1
-edit==0.0.4
-editdistance==0.6.0
 entrypoints==0.3
 et-xmlfile==1.0.1
 fastcache==1.1.0
@@ -78,9 +74,7 @@ MarkupSafe==1.1.1
 
 mccabe==0.6.1
 mistune==0.8.4
-mkl-fft==1.3.0
 
-mkl-service==2.3.0
 mpmath==1.2.1
 
 multipledispatch==0.6.0
@@ -89,8 +83,7 @@ navigator-updater==0.2.1
 
 oauthlib==3.1.1
 olefile==0.46
-opencv-python==4.5.4.60
-opencv-python-headless==4.5.4.58
+
 
 opt-einsum==3.3.0
 
@@ -119,8 +112,6 @@ pycurl==7.43.0.6
 pyodbc===4.0.0-unsupported
 
 pyreadline==2.1
-
-pytesseract==0.3.8
 pytest==6.2.3
 python-bidi==0.4.2
 
