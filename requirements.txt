@@ -5,16 +5,9 @@ json5==0.9.5
 jupyter==1.0.0
 keras==2.7.0
 Keras-Preprocessing==1.1.2
-multipledispatch==0.6.0
-mypy-extensions==0.4.3
 pathspec==0.7.0
 pipreqs==0.4.11
-pkginfo==1.7.0
-scikit-image==0.18.1
 scikit-learn==1.0.1
 unicodecsv==0.14.1
 webencodings==0.5.1
-widgetsnbextension==3.5.1
 win-unicode-console==0.5
-wincertstore==0.2
-wrapt==1.12.1
